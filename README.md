@@ -16,6 +16,9 @@ Right now, I'm shaping the mobile future of Europe's most successful outlet – 
 * **Android:** Deep understanding of the ecosystem.
 * **Kotlin Multiplatform (KMP):** Building efficient cross-platform solutions.
 * **Compose Multiplatform:** Crafting modern UIs.
+* **Vibe Coding:** Leveraging AI-powered development workflows for enhanced productivity.
+* **AI & Intelligent Agents:** Extensive experience building and integrating AI systems, autonomous agents, and LLM-powered solutions.
+* **Model Context Protocol (MCP):** Proficient in developing agent architectures and context-aware AI integrations.
 * **Clean Architecture & Best Practices:** My foundation for maintainable software.
 
 ### 🔗 Connect with me:

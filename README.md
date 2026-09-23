@@ -22,6 +22,6 @@ I'm interested in more than generating code faster. I care about building the ri
 
 ### 🔗 Connect With Me
 
-Let's talk software engineering, Kotlin, AI, and ideas worth building.
+Let's talk software engineering, AI and ideas worth building.
 
-[Twitter / X](https://twitter.com/HaraldHalbig) · [Stack Overflow](https://stackoverflow.com/users/4675996/harry248) · [LinkedIn](https://www.linkedin.com/in/harald-h-a38576182/) · [Xing](https://www.xing.com/profile/Harald_Halbig/cv)
+[X](https://x.com/HaraldHalbig) · [LinkedIn](https://www.linkedin.com/in/harald-h-a38576182/)

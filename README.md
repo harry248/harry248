@@ -1,33 +1,27 @@
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
----
-
 ### 👋 Hey, I'm Harald!
 
-A passionate **Mobile Developer** 📱 based in Germany 🇩🇪 with many years of experience under my belt. My goal? To create robust, elegant, and high-performing mobile applications. Usually found coding, debugging, or patiently waiting for Gradle to sync.
+I'm an experienced **Software Engineer** based in Germany 🇩🇪, with a strong background in **mobile development, software architecture, and building reliable applications**.
 
-### 👨🏻‍💻 Currently Focusing On:
+Today, I bring that experience to **AI Engineering**. I use AI to explore ideas, accelerate development, and tackle more ambitious projects—but it's my engineering background that helps me guide the process, challenge the output, and turn promising prototypes into well-built software.
 
-Right now, I'm shaping the mobile future of Europe's most successful outlet – [Outletcity Metzingen](https://www.outletcity.com) – using **Kotlin Multiplatform (KMP)** and **Compose Multiplatform**. I love working with cutting-edge technology and developing innovative solutions.
+**AI expands what I can build. Experience helps me build it well.**
 
-### 🚀 Skills & Passion:
+### 👨🏻‍💻 Currently Working On
 
-* **Kotlin:** My go-to language for clean and expressive code.
-* **Android:** Deep understanding of the ecosystem.
-* **Kotlin Multiplatform (KMP):** Building efficient cross-platform solutions.
-* **Compose Multiplatform:** Crafting modern UIs.
-* **Vibe Coding:** Leveraging AI-powered development workflows for enhanced productivity.
-* **AI & Intelligent Agents:** Extensive experience building and integrating AI systems, autonomous agents, and LLM-powered solutions.
-* **Model Context Protocol (MCP):** Proficient in developing agent architectures and context-aware AI integrations.
-* **Clean Architecture & Best Practices:** My foundation for maintainable software.
+At **[Outletcity Metzingen](https://www.outletcity.com)**, I'm building mobile experiences with **Kotlin Multiplatform** and **Compose Multiplatform**, while exploring how AI-driven workflows can improve the way we develop and deliver software.
 
-### 🔗 Connect with me:
+Still occasionally waiting for Gradle to sync. Some things haven't changed.
 
-Let's connect and talk tech!
+### 🚀 What I Bring
 
-* **Twitter:** [@HaraldHalbig](https://twitter.com/HaraldHalbig)
-* **Stack Overflow:** [harry248](https://stackoverflow.com/users/4675996/harry248)
-* **LinkedIn:** [Harald H.](https://www.linkedin.com/in/harald-h-a38576182/)
-* **Xing:** [Harald Halbig](https://www.xing.com/profile/Harald_Halbig/cv)
+* **Engineering Experience:** Understanding complex problems, making architectural decisions, and knowing where simplicity beats complexity.
+* **AI Engineering:** Working with coding agents and building LLM-powered solutions—combining AI's capabilities with clear direction and critical evaluation.
+* **Mobile Expertise:** Deep roots in **Kotlin and Android**, with **Kotlin Multiplatform and Compose Multiplatform** for cross-platform development.
 
----
+I'm interested in more than generating code faster. I care about building the right thing, understanding how it works, and making it maintainable.
+
+### 🔗 Connect With Me
+
+Let's talk software engineering, Kotlin, AI, and ideas worth building.
+
+[Twitter / X](https://twitter.com/HaraldHalbig) · [Stack Overflow](https://stackoverflow.com/users/4675996/harry248) · [LinkedIn](https://www.linkedin.com/in/harald-h-a38576182/) · [Xing](https://www.xing.com/profile/Harald_Halbig/cv)
